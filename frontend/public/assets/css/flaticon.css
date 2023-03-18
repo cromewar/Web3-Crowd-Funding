@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.ttf") format("truetype"),
+        url("../fonts/flaticon.woff") format("woff"),
+        url("../fonts/flaticon.woff2") format("woff2"),
+        url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/flaticon.svg#flaticon") format("svg");
+}
+
+i[class^="flaticon-"],
+i[class*=" flaticon-"] {
+    display: inline-block;
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-rendering: auto;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-two-hearts:before {
+    content: "\f101";
+}
+.flaticon-heart-shaped-gift:before {
+    content: "\f102";
+}
+.flaticon-reading-book:before {
+    content: "\f103";
+}
+.flaticon-video-camera:before {
+    content: "\f104";
+}
+.flaticon-stethoscope:before {
+    content: "\f105";
+}
+.flaticon-tshirt:before {
+    content: "\f106";
+}
+.flaticon-project-management:before {
+    content: "\f107";
+}
+.flaticon-tshirt-1:before {
+    content: "\f108";
+}
+.flaticon-salad:before {
+    content: "\f109";
+}
+.flaticon-ecological:before {
+    content: "\f10a";
+}
+.flaticon-crowdfunding:before {
+    content: "\f10b";
+}
+.flaticon-social-care:before {
+    content: "\f10c";
+}
+.flaticon-badges:before {
+    content: "\f10d";
+}
+.flaticon-support:before {
+    content: "\f10e";
+}
+.flaticon-heart:before {
+    content: "\f10f";
+}
+.flaticon-right-quote:before {
+    content: "\f110";
+}
+.flaticon-phone-call:before {
+    content: "\f111";
+}
+.flaticon-place:before {
+    content: "\f112";
+}
+.flaticon-phone-call-1:before {
+    content: "\f113";
+}
+.flaticon-envelope:before {
+    content: "\f114";
+}
+.flaticon-finance:before {
+    content: "\f115";
+}
+.flaticon-open-box:before {
+    content: "\f116";
+}
+.flaticon-credit:before {
+    content: "\f117";
+}
+.flaticon-debit-card:before {
+    content: "\f118";
+}
+.flaticon-payment:before {
+    content: "\f119";
+}
+.flaticon-wallet-1:before {
+    content: "\f11a";
+}
+.flaticon-telephone:before {
+    content: "\f11b";
+}
+.flaticon-solidarity:before {
+    content: "\f11c";
+}
+.flaticon-wallet:before {
+    content: "\f11d";
+}
+.flaticon-wallet-2:before {
+    content: "\f11e";
+}
